@@ -1,21 +1,21 @@
 {
-  "ejecutado_en": "2026-10-22T00:34:01",
+  "ejecutado_en": "2026-10-23T00:31:04",
   "fechas_procesadas": [
-    "2026-10-16",
     "2026-10-19",
     "2026-10-20",
     "2026-10-21",
-    "2026-10-22"
+    "2026-10-22",
+    "2026-10-23"
   ],
-  "filas_nuevas": 1427,
-  "filas_totales": 54287,
+  "filas_nuevas": 1395,
+  "filas_totales": 54682,
   "plazas": 22,
   "productos": 36,
-  "ultima_fecha": "2026-10-21",
+  "ultima_fecha": "2026-10-22",
   "pct_confiables": 85.74,
   "controles_ok": true,
   "problemas": [],
   "dias_habiles_sin_datos": [
-    "2026-10-22"
+    "2026-10-23"
   ]
 }
