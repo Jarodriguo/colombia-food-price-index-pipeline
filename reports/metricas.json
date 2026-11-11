@@ -1,21 +1,21 @@
 {
-  "ejecutado_en": "2026-11-10T04:01:57",
+  "ejecutado_en": "2026-11-11T01:48:43",
   "fechas_procesadas": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-09",
-    "2026-11-10"
+    "2026-11-10",
+    "2026-11-11"
   ],
-  "filas_nuevas": 1510,
-  "filas_totales": 58788,
+  "filas_nuevas": 1508,
+  "filas_totales": 59097,
   "plazas": 22,
   "productos": 36,
-  "ultima_fecha": "2026-11-09",
-  "pct_confiables": 85.78,
+  "ultima_fecha": "2026-11-10",
+  "pct_confiables": 85.8,
   "controles_ok": true,
   "problemas": [],
   "dias_habiles_sin_datos": [
-    "2026-11-10"
+    "2026-11-11"
   ]
 }
