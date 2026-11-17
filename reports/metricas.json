@@ -1,13 +1,13 @@
 {
-  "ejecutado_en": "2026-11-14T02:10:54",
+  "ejecutado_en": "2026-11-17T04:24:36",
   "fechas_procesadas": [
-    "2026-11-09",
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-16",
+    "2026-11-17"
   ],
-  "filas_nuevas": 1809,
+  "filas_nuevas": 1124,
   "filas_totales": 60221,
   "plazas": 22,
   "productos": 36,
@@ -15,5 +15,7 @@
   "pct_confiables": 85.81,
   "controles_ok": true,
   "problemas": [],
-  "dias_habiles_sin_datos": []
+  "dias_habiles_sin_datos": [
+    "2026-11-17"
+  ]
 }
