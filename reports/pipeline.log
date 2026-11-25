@@ -648,3 +648,15 @@
 2026-11-24 05:52:04 | INFO     | Tabla limpia: 62,064 filas, 22 plazas, 85.7% confiables
 2026-11-24 05:52:04 | INFO     | Métricas en reports/metricas.json
 2026-11-24 05:52:04 | INFO     | Pipeline completado sin novedades
+2026-11-25 04:50:55 | INFO     | Pipeline SIPSA — procesando 5 fecha(s)
+2026-11-25 04:50:55 | INFO     | Histórico: 62,064 filas hasta 2026-11-23
+2026-11-25 04:50:56 | WARNING  | 2026-11-25: sin publicación en día hábil no festivo
+2026-11-25 04:50:56 | INFO     | Extraídas 1,507 filas de 4 día(s)
+2026-11-25 04:50:56 | INFO     | control 'esquema': OK
+2026-11-25 04:50:56 | INFO     | control 'volumen': OK
+2026-11-25 04:50:56 | INFO     | control 'vocabulario': OK
+2026-11-25 04:50:56 | INFO     | control 'rango': OK
+2026-11-25 04:50:56 | INFO     | control 'duplicados': OK
+2026-11-25 04:50:57 | INFO     | Tabla limpia: 62,377 filas, 22 plazas, 85.7% confiables
+2026-11-25 04:50:57 | INFO     | Métricas en reports/metricas.json
+2026-11-25 04:50:57 | INFO     | Pipeline completado sin novedades
